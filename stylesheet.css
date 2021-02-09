@@ -1,0 +1,15 @@
+.heading{
+	color:white;
+	background-color: lightpink;
+	text-align: center;
+	padding:20px;
+	margin-top:-10px;
+}
+
+p{
+	font-size: 30px;
+	color:navy;
+	text-shadow:2px 2px 5px lightblue;
+	text-align: justify;
+	line-height: 45px;
+}
